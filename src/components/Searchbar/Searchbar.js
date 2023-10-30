@@ -5,7 +5,6 @@ import {
   SearchbarHeader,
 } from './Searchbar.styled';
 import { BsSearch } from 'react-icons/bs';
-// import { search } from 'react-icons-kit/icomoon/search';
 
 export const Searchbar = ({ onChange }) => {
   return (

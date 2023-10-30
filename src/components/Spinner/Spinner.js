@@ -1,4 +1,3 @@
-// import { MagnifyingGlass } from 'react-loader-spinner';
 import { TailSpin } from 'react-loader-spinner';
 
 export const Spinner = () => {
